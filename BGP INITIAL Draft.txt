@@ -127,3 +127,6 @@ neighbor 216.52.180.153 route-map isp_INAP2_map_out out
 neighbor 216.52.180.153 dmzlink-bw
 maximum-paths 3
 no auto-summary
+cleat ip bgp nei 38.142.85.81 soft
+
+
